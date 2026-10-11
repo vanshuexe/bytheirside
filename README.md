@@ -23,8 +23,12 @@ The brief supplies no email address or WhatsApp number. The form therefore valid
 
 ## Content and imagery
 
-Plans, service descriptions, the founder story, trust statements and FAQ answers are adapted from the supplied brief. Placeholder testimonials have been omitted. The Colour Book informed the forest, sage, cream, sand and terracotta palette. Typography uses EB Garamond and DM Sans with local fallbacks.
+Plans, service descriptions, the founder story, trust statements and FAQ answers are adapted from the supplied brief. Placeholder testimonials have been omitted. The Colour Book informed the forest, sage, cream, sand and terracotta palette. Typography uses DM Sans throughout, with Arial as a fallback.
 
 `public/images/family-care.jpg` is an illustrative AI-generated photograph, produced with the built-in image generation tool. It does not depict actual providers or customers. It can be replaced with commissioned photography without changing the layout.
 
 Image prompt: Warm candid editorial photograph of an elderly Indian couple sharing tea and conversation with a young Indian female companion in a sage kurta on a coastal South Indian home veranda. Dignified older adults, natural smiles, soft afternoon sunlight, tropical plants, cane furniture, cream plaster walls, authentic skin texture, cream and forest green palette. Landscape composition, no medical equipment, uniforms, text, logos or watermarks.
+
+## Additional images
+
+Each service tab uses its own generated editorial image: companionship.jpg (a garden walk), health-coordination.jpg (a nurse checking blood pressure), everyday-help.jpg (unpacking groceries), and emergency-coordination.jpg (a coordinator on the phone). The story section uses family-story.jpg (a couple making a video call). All five were generated with the built-in image tool using separate prompts for documentary photography in ordinary South Indian homes, natural light, realistic details, no text, logos or watermark. They are illustrative images, not photographs of actual providers or customers.
