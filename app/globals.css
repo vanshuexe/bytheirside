@@ -70,3 +70,15 @@ nav a,.footer-links a{display:inline-flex;align-items:center;min-height:44px}
   .plan-table tr{grid-template-columns:1fr}.plan-table td{grid-column:1}.mobile-month{display:inline;margin-left:4px}
   .hero-actions{gap:4px 16px}
 }
+
+.care-context{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,2fr);gap:40px}
+.care-context h2{font-size:24px;max-width:300px}
+.long-copy{max-width:700px}.long-copy p{font-size:14px;line-height:1.85;margin-bottom:16px}.long-copy p:last-child{margin-bottom:0}
+.service-copy .service-detail{font-size:14px;margin-top:14px;line-height:1.8}
+.plan-guide{margin-top:28px;max-width:780px}.plan-guide h3{font-size:18px;margin-bottom:14px}
+.plan-guide p{font-size:14px;line-height:1.8;margin-bottom:12px}.plan-guide strong{font-weight:600}
+.provider-explanation{font-size:14px;line-height:1.8;margin-top:18px;max-width:650px}
+.enquiry-guidance{margin-top:24px}.enquiry-guidance h3{font-size:16px;margin-bottom:10px}
+.enquiry-guidance ul{padding-left:18px;margin:0 0 12px;color:var(--body);font-size:13px;line-height:1.75}
+.enquiry-guidance li{margin-bottom:5px}.enquiry-guidance p{font-size:13px}
+@media(max-width:800px){.care-context{grid-template-columns:1fr;gap:18px}.care-context h2{max-width:none}.plan-guide{margin-top:24px}}
