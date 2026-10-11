@@ -85,3 +85,8 @@ nav a,.footer-links a{display:inline-flex;align-items:center;min-height:44px}
 
 .step-marker{display:flex;align-items:center;gap:12px;margin-bottom:14px;color:var(--ink)}
 .step-marker svg{flex-shrink:0}.step-marker .step-number{margin-bottom:0;font-size:12px;color:#667367}
+
+.context-heading-icon{display:flex;margin-bottom:15px;color:var(--ink)}
+.context-copy p{position:relative;padding-left:37px}
+.context-paragraph-icon{position:absolute;left:0;top:2px;display:flex;color:var(--ink)}
+@media(max-width:560px){.context-copy p{padding-left:33px}.context-paragraph-icon svg{width:21px;height:21px}}
