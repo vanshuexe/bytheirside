@@ -90,3 +90,6 @@ nav a,.footer-links a{display:inline-flex;align-items:center;min-height:44px}
 .context-copy p{position:relative;padding-left:37px}
 .context-paragraph-icon{position:absolute;left:0;top:2px;display:flex;color:var(--ink)}
 @media(max-width:560px){.context-copy p{padding-left:33px}.context-paragraph-icon svg{width:21px;height:21px}}
+
+.founder-copy p{position:relative;padding-left:37px}
+@media(max-width:560px){.founder-copy p{padding-left:33px}}
