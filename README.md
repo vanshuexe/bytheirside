@@ -23,7 +23,7 @@ The brief supplies no email address or WhatsApp number. The form therefore valid
 
 ## Content and imagery
 
-Plans, service descriptions, the founder story, trust statements and FAQ answers are adapted from the supplied brief. Placeholder testimonials have been omitted. The Colour Book informed the forest, sage, cream, sand and terracotta palette. Typography uses DM Sans throughout, with Arial as a fallback.
+Plans, service descriptions, the founder story, trust statements and FAQ answers are adapted from the supplied brief. Placeholder testimonials have been omitted. The Colour Book informed the forest, sage, cream, sand and terracotta palette. Typography uses system Arial and Helvetica. No remote fonts are loaded.
 
 `public/images/family-care.jpg` is an illustrative AI-generated photograph, produced with the built-in image generation tool. It does not depict actual providers or customers. It can be replaced with commissioned photography without changing the layout.
 
@@ -32,3 +32,5 @@ Image prompt: Warm candid editorial photograph of an elderly Indian couple shari
 ## Additional images
 
 Each service tab uses its own generated editorial image: companionship.jpg (a garden walk), health-coordination.jpg (a nurse checking blood pressure), everyday-help.jpg (unpacking groceries), and emergency-coordination.jpg (a coordinator on the phone). The story section uses family-story.jpg (a couple making a video call). All five were generated with the built-in image tool using separate prompts for documentary photography in ordinary South Indian homes, natural light, realistic details, no text, logos or watermark. They are illustrative images, not photographs of actual providers or customers.
+
+The current layout uses a plain comparison table for plans, compact service tabs, and a text-only founder note. The hero uses family-story.jpg; service photos remain distinct.
