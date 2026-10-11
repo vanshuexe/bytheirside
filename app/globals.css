@@ -15,3 +15,27 @@ em{font-style:normal}.brand{font-size:26px;font-weight:600;letter-spacing:-1.2px
 @media(max-width:1100px){.hero h1{font-size:56px}.photo-wrap{height:440px}.price{font-size:34px}}
 @media(max-width:800px){.hero h1{font-size:52px}.photo-wrap{height:370px}.hero{gap:30px}.story-art img{height:360px}.service-copy h3{font-size:27px}.safety h2{font-size:34px}}
 @media(max-width:420px){.hero h1{font-size:43px;letter-spacing:-1.5px}.photo-wrap{height:310px}.brand{font-size:24px}.contact h2{font-size:32px}.price{font-size:38px}.steps h3{font-size:21px}}
+
+/* Quiet, practical controls. */
+.button{border-radius:2px;padding:12px 19px;gap:0;font-size:13px;font-weight:500;line-height:1.4;box-shadow:none;transition:background .15s}
+.button:hover{transform:none;background:#1c3933}
+.button.small{padding:10px 18px;gap:0;background:transparent;color:var(--forest);border-color:#aeb8af}
+.button.small:hover{background:#edf0e7}
+.button.outline{border-color:#9da99b;background:transparent}
+.button.outline:hover{background:#edf0e7;transform:none}
+.hero-actions{gap:28px}.text-link{font-size:13px;font-weight:400;border-bottom:1px solid #8b9d8b;padding-bottom:2px;gap:0}
+.brand{font-size:25px}.brand-dot{color:var(--forest)}
+.service-tabs{gap:0;border-bottom:1px solid #b9c3b5;margin-bottom:30px}
+.service-tabs button{border:none;border-radius:0;border-bottom:2px solid transparent;padding:15px 12px;background:transparent;font-size:13px;color:#69756a;justify-content:center}
+.service-tabs button[aria-selected=true]{background:transparent;color:var(--forest);border-bottom:2px solid var(--forest);font-weight:600}
+.service-tabs button:hover{color:var(--forest);background:#24463f05}
+.service-panel{border-radius:3px}.service-copy{padding-top:44px}
+.plan{border-radius:3px;box-shadow:none;background:transparent}.plan.featured{background:transparent;border-color:#9aaa94}
+.plan h3{margin-top:0}.plan .button{width:auto;min-width:110px;justify-content:center;padding:11px 18px;font-size:12px}
+.plan.featured .button{background:transparent;color:var(--forest);border-color:#9da99b}.plan.featured .button:hover{background:#edf0e7}
+.chips{gap:0;align-content:flex-start}.chips span{border:none;border-radius:0;padding:5px 0;font-size:12px;width:50%}
+.eyebrow{letter-spacing:1px;font-weight:500}.live-dot{display:none}
+.photo-wrap,.story-art img{border-radius:3px}.contact form{border-radius:3px}
+.contact form>.button{width:auto;justify-content:center;padding:12px 20px}.draft button{border-radius:2px}
+footer p{margin-left:0}
+@media(max-width:800px){.service-tabs{grid-template-columns:1fr 1fr;gap:0}.service-tabs button{font-size:12px;padding:13px 5px}.hero-actions{gap:23px}.service-copy{padding:30px}.chips span{font-size:11px;padding-right:12px}}
