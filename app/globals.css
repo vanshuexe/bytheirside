@@ -82,3 +82,6 @@ nav a,.footer-links a{display:inline-flex;align-items:center;min-height:44px}
 .enquiry-guidance ul{padding-left:18px;margin:0 0 12px;color:var(--body);font-size:13px;line-height:1.75}
 .enquiry-guidance li{margin-bottom:5px}.enquiry-guidance p{font-size:13px}
 @media(max-width:800px){.care-context{grid-template-columns:1fr;gap:18px}.care-context h2{max-width:none}.plan-guide{margin-top:24px}}
+
+.step-marker{display:flex;align-items:center;gap:12px;margin-bottom:14px;color:var(--ink)}
+.step-marker svg{flex-shrink:0}.step-marker .step-number{margin-bottom:0;font-size:12px;color:#667367}
